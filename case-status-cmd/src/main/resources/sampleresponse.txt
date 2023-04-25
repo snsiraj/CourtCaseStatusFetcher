@@ -1,0 +1,102 @@
+
+<style type='text/css'>
+a
+{
+	color:red;
+	text-decoration:none;
+}
+a:hover
+{
+color: #ff0000;
+text-decoration:underline;
+}
+a:focus
+{
+color: #ff0000;
+text-decoration:underline;
+}
+</style>
+
+<style type='text/css'>
+@media print {
+    #printbtn {
+        display :  none;
+
+    }
+	#backlink {
+        display :  none;
+    }
+}
+</style><div align='center'>
+<span  style=''><b>Daily Status</b></span>
+</br>
+<center>
+<span class='error'></span>
+
+
+
+<center><span>Principal District Munsif Court, Tiruchirappalli </span></center>
+<center><span><b>In the court of&nbsp;</b>:Principal District Munsif, Tiruchirappalli</span></center>
+<center><span><b> CNR Number&nbsp;</b>:TNTP050010412022</span></center>
+<center><span><b> Case Number&nbsp;</b>:OP/0000097/2022</span></center>
+<center><span> N. Siraj Mohideen Sulthan Ibrahim, Rep by his Power Agent, Shaik Appes. <b> &nbsp;versus&nbsp; </b> Mohammed Rizwan </span></center>
+<center><span><b> Date&nbsp;</b> : 11-04-2023</span></center>
+
+<center>
+<table border='0' width='87%' >
+<tr>
+	<td colspan='3'><hr></td>
+</tr>
+    <tr>
+		<td width='25%' valign='top' align='left' style='font-size:1em; font-weight:strong;'>
+		<b>Business</b>
+		</td>
+		<td  width='1%' valign='top' >:</td>
+		<td width='69%' valign='top' align='left' style='font-size:1em;'>A.t reqeust of respondent counsel and on petition adj to 20.04.2023. Otherwise further order will be Passed<br />
+		</td>
+	</tr>
+
+		<tr>
+			<td width='25%' valign='top' align='left' style='font-size:1em; font-weight:strong;'>
+			<b>Next Purpose</b>
+			</td>
+			<td width='1%' valign='top' >:</td>
+			<td width='69%' valign='top' align='left' style='font-size:1em;'>Counter	<br />
+			</td>
+		</tr>
+
+		<tr>
+			<td width='25%' valign='top' align='left' style='font-size:1em; font-weight:strong;'>
+			<b>Next Hearing Date</b>
+			</td>
+			<td width='1%' valign='top' >:</td>
+			<td width='69%' valign='top' align='left' style='font-size:1em;'>20-04-2023<br />
+			</td>
+		</tr><tr><td colspan='3' align='right'>Principal District Munsif, Tiruchirappalli</td></tr><tr id='tr_print'>
+<td colspan='3' width='40%' valign='top' align='center' style='font-size:1em; font-weight:strong;'>
+<input id='printbtn' class='button' type='button' value='Print' onclick='window.print();' >
+</td>
+</tr>
+</table>
+</center>
+</center>
+
+<p>&nbsp;
+<p>&nbsp;</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+</table>
+</center>
+</div>
